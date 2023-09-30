@@ -1,0 +1,3 @@
+# Omello
+
+An Othello AI.
